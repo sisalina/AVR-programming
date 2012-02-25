@@ -1,0 +1,11 @@
+Para aprender a programar chips AVR de forma rápida y fácil ve a http://555riente.blogspot.com/2012/02/como-programar-micros-avr.html
+
+Blink.c ----> Es el archivo a copiar en MikroC
+
+Blink.hex ------> Es el archivo en código máquina a cargar en el chip
+
+Nombres.txt -----> Es la lista de programadores compatibles en WinAVR y sus respectivos nombres
+
+run.bat ------> Es el comando que carga el código Blink.hex en el programador 
+
+Saludos!
